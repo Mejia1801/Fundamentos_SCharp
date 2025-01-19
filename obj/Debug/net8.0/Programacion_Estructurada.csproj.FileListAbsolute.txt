@@ -1,0 +1,14 @@
+C:\Users\bladi\source\repos\clase11\Programacion_Estructurada\bin\Debug\net8.0\Programacion_Estructurada.exe
+C:\Users\bladi\source\repos\clase11\Programacion_Estructurada\bin\Debug\net8.0\Programacion_Estructurada.deps.json
+C:\Users\bladi\source\repos\clase11\Programacion_Estructurada\bin\Debug\net8.0\Programacion_Estructurada.runtimeconfig.json
+C:\Users\bladi\source\repos\clase11\Programacion_Estructurada\bin\Debug\net8.0\Programacion_Estructurada.dll
+C:\Users\bladi\source\repos\clase11\Programacion_Estructurada\bin\Debug\net8.0\Programacion_Estructurada.pdb
+C:\Users\bladi\source\repos\clase11\Programacion_Estructurada\obj\Debug\net8.0\Programacion_Estructurada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bladi\source\repos\clase11\Programacion_Estructurada\obj\Debug\net8.0\Programacion_Estructurada.AssemblyInfoInputs.cache
+C:\Users\bladi\source\repos\clase11\Programacion_Estructurada\obj\Debug\net8.0\Programacion_Estructurada.AssemblyInfo.cs
+C:\Users\bladi\source\repos\clase11\Programacion_Estructurada\obj\Debug\net8.0\Programacion_Estructurada.csproj.CoreCompileInputs.cache
+C:\Users\bladi\source\repos\clase11\Programacion_Estructurada\obj\Debug\net8.0\Programacion_Estructurada.dll
+C:\Users\bladi\source\repos\clase11\Programacion_Estructurada\obj\Debug\net8.0\refint\Programacion_Estructurada.dll
+C:\Users\bladi\source\repos\clase11\Programacion_Estructurada\obj\Debug\net8.0\Programacion_Estructurada.pdb
+C:\Users\bladi\source\repos\clase11\Programacion_Estructurada\obj\Debug\net8.0\Programacion_Estructurada.genruntimeconfig.cache
+C:\Users\bladi\source\repos\clase11\Programacion_Estructurada\obj\Debug\net8.0\ref\Programacion_Estructurada.dll
